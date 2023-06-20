@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683996334 source:c:\users\mohammed essam\desktop\projectsupermarket\main.cpp
+	<iostream>
+	<fstream>
+
